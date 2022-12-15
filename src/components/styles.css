@@ -1,0 +1,29 @@
+#textosubtitulo {
+  font-size: 1.5ch;
+}
+
+.card body {
+  position: absolute;
+  width: 837px;
+  height: 837px;
+  left: 454px;
+  top: 338px;
+  background: #f7fafc;
+  border-radius: 19.1972px;
+}
+
+#exclamacion {
+  color: rgb(212, 50, 50);
+}
+
+#olvidocontraseña {
+  color: blue;
+}
+
+abbr {
+  color: rgb(212, 50, 50);
+}
+
+#styleCard3 {
+  width: 18rem;
+}
